@@ -118,7 +118,7 @@ const PizzaCustomizer = () => {
       {/* Header */}
       <header className="bg-warning text-white py-4 shadow d-flex justify-content-center">
         <div style={{ maxWidth: "1400px" }} className="w-100 text-center">
-          <h1 className="fw-bold">🍕 Pizza Customizer</h1>
+          <h1 className="fw-bold">Pizza Customizer</h1>
           <p className="mb-0">Build your perfect pizza!</p>
         </div>
       </header>
